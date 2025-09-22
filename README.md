@@ -1,4 +1,4 @@
-# ✨ Hey, I'm Jules !  
+# ✨ Hey, I'm RS !  
 
 ~ un mec chill qui aime le code et Minecraft ~  
 
