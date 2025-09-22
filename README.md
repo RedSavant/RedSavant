@@ -11,7 +11,7 @@
 ---
 
 ## 🔧 Modding / Projets   
-- [Modrinth](https://modrinth.com/redsavant)     
+- [Modrinth](https://modrinth.com/user/WpNobvk5)     
 
 ---
 
