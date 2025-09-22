@@ -5,23 +5,14 @@
 ---
 
 ## 📬 Contact / Links  
-- 🎮 Discord: **monpseudo**  
-- 🌐 [Mon serveur Discord](https://discord.gg/tonlien)  
+- 🎮 Discord: **rscomeback**  
+- 🌐 [Mon serveur Discord](https://discord.gg/fUEDrmRECM)  
 
 ---
 
-## 🔧 Modding / Projets  
-- [SpigotMC](https://spigotmc.org/)  
-- [Modrinth](https://modrinth.com/)  
-- [CurseForge](https://curseforge.com/)  
+## 🔧 Modding / Projets   
+- [Modrinth](https://modrinth.com/redsavant)     
 
 ---
 
-## 🎥 Médias  
-- 📺 [YouTube](https://youtube.com/)  
-- 🎮 [Twitch](https://twitch.tv/)  
-- 🐦 [Twitter/X](https://twitter.com/)  
-
----
-
-💡 *"Toujours en train de bidouiller des plugins et scripts !"*
+💡 *"Toujours en train de bidouiller des plugins et mods !"*
