@@ -3,6 +3,8 @@
 ~ un mec chill qui aime le code et Minecraft ~  
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedSavant)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ## 📬 Contact / Links  
 - 🎮 Discord: **rscomeback**  
