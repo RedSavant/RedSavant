@@ -1,15 +1,23 @@
 # ✨ Hey, I'm RS !  
 
-~ un mec chill qui aime le code et Minecraft ~  
+## 👨‍💻 About me
+A young developper passionate about software development and Cybersecurity
 
 ---
-
+## Top GitHUB lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedSavant&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-darkred?logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-white?logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ## 📬 Contact / Links  
 - 🎮 Discord: **rscomeback**  
-- 🌐 [Mon serveur Discord](https://discord.gg/fUEDrmRECM)  
+- 🌐 [Contact me on discord](https://discord.gg/fUEDrmRECM)  
 
 ---
 
