@@ -13,9 +13,5 @@
 
 ---
 
-## 🔧 Modding / Projets   
-- [Modrinth](https://modrinth.com/user/WpNobvk5)     
-
----
-
-💡 *"Toujours en train de bidouiller des plugins et mods !"*
+## Plugins / Projets   
+- [Modrinth](https://modrinth.com/user/WpNobvk5)
