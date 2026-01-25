@@ -22,6 +22,15 @@ A young developper passionate about software development and Cybersecurity
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-gray?logo=CSS)
 
+## Tools & Platforms
+
+![Intellij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C3AED?logo=endeavouros&logoColor=white)
 
 
 ## 📬 Contact / Links  
