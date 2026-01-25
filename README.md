@@ -9,7 +9,10 @@ A young developper passionate about software development and Cybersecurity
 
 ---
 ## Frameworks & Libraries
+### Minecraft
 ![PaperMC](https://img.shields.io/badge/PaperMC-black)
+![Spigot](https://img.shields.io/badge/Spigot-gold)
+![PurpurMC](https://img.shields.io/badge/Purpur-purple)
 
 ---
 ## 🛠️ Tech Stack
