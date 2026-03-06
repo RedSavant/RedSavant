@@ -5,7 +5,7 @@ A young developper passionate about software development and Cybersecurity
 
 ---
 ## Top GitHUB lang
-[![Top Langs](https://github-readme-stats-khaki-nu-20.vercel.app/api/top-langs/?username=RedSavant&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats.rscomeback.fr/api/top-langs/?username=RedSavant&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Frameworks & Libraries
