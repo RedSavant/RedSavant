@@ -1,9 +1,6 @@
-# ✨ Hey, I'm RS !  
+<h1 align="center">✨Hey, I'm RS</h1>
+<h5 align="center">A young developper passionate about software development and Cybersecurity</h1>
 
-## 👨‍💻 About me
-A young developper passionate about software development and Cybersecurity
-
----
 ## Top GitHUB lang
 [![Top Langs](https://stats.rscomeback.fr/api/top-langs/?username=RedSavant&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,7 +12,7 @@ A young developper passionate about software development and Cybersecurity
 ![PurpurMC](https://img.shields.io/badge/Purpur-purple)
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 ![Java](https://img.shields.io/badge/Java-darkred?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-white?logo=typescript)
@@ -33,9 +30,9 @@ A young developper passionate about software development and Cybersecurity
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C3AED?logo=endeavouros&logoColor=white)
 
 
-## 📬 Contact / Links  
-- 🎮 Discord: **rscomeback**  
-- 🌐 [Contact me on discord](https://discord.gg/fUEDrmRECM)  
+## Contact / Links  
+- Discord: **rscomeback**  
+- [Contact me on discord](https://discord.gg/fUEDrmRECM)  
 
 ---
 
