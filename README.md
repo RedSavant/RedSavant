@@ -2,7 +2,7 @@
 <h5 align="center">A young developper passionate about software development and Cybersecurity</h1>
 
 ## Top GitHUB lang
-[![Top Langs](https://stats.rscomeback.fr/api/top-langs/?username=RedSavant&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats.rscomeback.fr/api/top-langs/?username=RedSavant&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Frameworks & Libraries
