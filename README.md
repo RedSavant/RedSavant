@@ -6,7 +6,14 @@
 
 
 ## Top GitHUB lang
+
+<div align=center>
+  
 [![Top Langs](https://stats.rscomeback.fr/api/top-langs/?username=RedSavant&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedSavant&theme=tokyonight&hide_border=true" width="96.5%" alt="GitHub Streak" />
+</div>
+
 
 ---
 ## Frameworks & Libraries
